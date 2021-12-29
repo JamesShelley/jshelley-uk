@@ -3,7 +3,7 @@ template: about-page
 slug: /about
 title: About Me
 ---
-Hi, Im James, 25 and currently living in Bournemouth, UK. I'm a Software Engineer with with 3 years commercial experience, focusing particularly around the Microsoft .NET Ecosystem. 
+Hi, I'm James, 25 and currently living in Bournemouth, UK. I'm a Software Engineer with 3 years commercial experience, focusing particularly around the Microsoft .NET Ecosystem. 
 
 I have have an interest in Software Development (primarily backend / systems) since attending College at 16 and self teaching myself Java to build games. I graduated with a 2:1 in BSc Software Engineering from Bournemouth University.
 
@@ -22,7 +22,7 @@ I have also experience developing and maintaining consumer facing websites with 
 
 1. Sitecore - Integrating a 3rd Party Direct Debit Provider with Sitecore and Dynamics 365.
 2. Sitecore - Building content synchronisation tasks between Sitecore and Dynamics 365.
-3. Sitecore - Building Membership Portals based on Access in Site and Dynamics 365.
+3. Sitecore - Building Membership Portals based on access in Sitecore and Dynamics 365.
 4. Umbraco - Inherited and maintained backend codebase for a large scale UK Retirement Home Provider.
 5. Umbraco - Creating custom, actionable dashboards based on data in Umbraco.
 6. Umbraco - Upgrading and Applying Security Patches.
