@@ -10,13 +10,14 @@ I have have an interest in Software Development (primarily backend / systems) si
 I have particular experience in building Web Applications with the latest LTS releases of the .NET Ecosystem (currently .NET 6). Some examples of the Software I have built / worked on:
 
 1. A Feature rich Multi Tenant Project Management System.
-2. Forum Administration Software.
-3. A Bitcoin Wallet.
-4. Internal API's to monitor SSL Certificates
-5. A company CLI to monitor Azure DevOps API endpoints
-6. Web Scraping Software
-7. A Chrome Extension that blocks all gambling sites and gambling relating extensions.
-8. A Chatbot for a premier league football club supporting real time delivered FB Messenger notifications.
+2. Realtime community chat application for creating and managing your own communities.
+3. Forum Administration Software.
+4. A Bitcoin Wallet.
+5. Internal API's to monitor SSL Certificates
+6. A company CLI to monitor Azure DevOps API endpoints
+7. Web Scraping Software
+8. A Chrome Extension that blocks all gambling sites and gambling relating extensions.
+9. A Chatbot for a premier league football club supporting real time delivered FB Messenger notifications.
 
 I have also experience developing and maintaining consumer facing websites with .NET CMS's and providing technical support to Clients:
 
