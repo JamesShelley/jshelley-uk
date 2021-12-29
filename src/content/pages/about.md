@@ -18,15 +18,13 @@ I have particular experience in building Web Applications with the latest LTS re
 7. A Chrome Extension that blocks all gambling sites and gambling relating extensions.
 8. A Chatbot for a premier league football club supporting real time delivered FB Messenger notifications.
 
-I have also experience developing and maintaining consumer facing websites with .NET CMS's and providing support
+I have also experience developing and maintaining consumer facing websites with .NET CMS's and providing technical support to Clients:
 
-to the Client with sites:
-
-1. Sitecore - Integrating a 3rd Party Direct Debit Provider with Sitecore and Dynamics 365
-2. Sitecore - Building content syncronisation tasks between Sitecore and Dynamics 365
-3. Sitecore - Building Membership Portals based on Access in Site and Dynamics 365
+1. Sitecore - Integrating a 3rd Party Direct Debit Provider with Sitecore and Dynamics 365.
+2. Sitecore - Building content synchronisation tasks between Sitecore and Dynamics 365.
+3. Sitecore - Building Membership Portals based on Access in Site and Dynamics 365.
 4. Umbraco - Inherited and maintained backend codebase for a large scale UK Retirement Home Provider.
-5. Umbraco - Creating custom, actionable dashboards based on data in Umbraco
-6. Umbraco 
+5. Umbraco - Creating custom, actionable dashboards based on data in Umbraco.
+6. Umbraco - Upgrading and Applying Security Patches.
 
 I also have experience in setting up CI/CD in Azure DevOps, pushing software to different UAT, Staging and Production Environments, as well as using the Azure Portal to deploy and manage different Azure Resources such as Virtual Machines, App Services, SQL Databases, Blob Storage, Azure Cognitive Services and much more.
